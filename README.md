@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abiyshek
 - 👀 I’m interested in coding in python, c, Java, Quantum Computing, Agentic AI 
-- 🌱 I’m currently learning BTech(it) 3st year
+- 🌱 I’m currently learning BTech(it) 3rd year
 - 💞️ I’m looking to collaborate on ... intrested in  python
 - 📫 How to reach me aabiyshek@gmail.com
 
